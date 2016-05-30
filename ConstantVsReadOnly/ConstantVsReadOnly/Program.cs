@@ -22,6 +22,7 @@ namespace ConstantVsReadOnly
         public Test()
         {
             read = 100;
+            cons = 100;
         }
         public void Check()
         {
